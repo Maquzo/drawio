@@ -1,0 +1,3 @@
+.container#blur.active {
+    filter: blur();
+}
